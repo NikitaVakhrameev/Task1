@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <img src="" alt="" class="logo">
+        <nav class="nav">
+            <a class="nav button">Каталог</a>
+            <a class="nav button">FAQ</a>
+            <a class="nav button">Контакты</a>
+        </nav>
+        <img src="" alt="phone_icon" class="interactive">
+        <p>8 (495) 690-06-90</p>
+        <form class="profile"> 
+            <input class="search_engine" type="text">
+            <input class="basket" type="text">
+            <input class="username" type="text">
+           
+        </form>
+    </header>
+    <p>Главная</p>
+    <p>Каталог</p>
+    <h1>Каталог</h1>
+    <main>
+        <div class="category_list">
+            <ul>
+                <li>Исполнитель</li>
+                <li>Альбом</li>
+                <li>Жанр</li>
+                <li>Состояние</li>
+                <li>Цена от</li>
+                <li>До</li>
+                <li>Сортировать по</li>
+            </ul>
+            </div>
+
+            <div class="main_photos">
+    <img src="" alt="" width="594px" height="594px">
+    <img src="" alt="" width="285px" height="285">
+            <img src="" alt="">
+            <img src="" alt="">
+            <img src="" alt="">
+            <img src="" alt="">
+            <img src="" alt="">
+            <img src="" alt="">
+            <img src="" alt="">
+            <img src="" alt="">
+            <img src="" alt="">
+            <img src="" alt=""><img src="" alt=""><img src="" alt=""><img src="" alt=""><img src="" alt=""><img src="" alt=""><img src="" alt=""><img src="" alt=""><img src="" alt=""><img src="" alt=""><img src="" alt="">
+            <img src="" alt="4000p" height="594px" width="594px">
+    </div>
+        </main>
+
+    <footer class="footer">
+        <div class="adv">
+            <p>©Vinil Market 2021. Все права защищены.</p>
+            <img src="" alt="fb" height="22.4px" width="22.4px">
+            <img src="" alt="photo" height="22.4px" width="22.4px">
+        </div>
+        <div class="links">
+            <ul>
+                <li>Каталог</li>
+                <li>О нас</li>
+                <li>Сертификат</li>
+                <li>FAQ</li>
+                <li>Гарантия</li>
+                <li>Контакты</li>
+            </ul>
+            </div>
+        <div class="contacts">
+            <p>8 (495) 690-06-90</p>
+            <p>trade@vinyl.ru</p>
+            <p>Большой Афанасьевский переулок д. 35-37, строение 4</p>
+        </div>
+
+    </footer>
+</body>
+</html>
